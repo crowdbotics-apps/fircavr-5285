@@ -1,0 +1,3 @@
+rootProject.name = 'fircavr_5285'
+
+include ':app'
